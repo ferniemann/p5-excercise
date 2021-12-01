@@ -10,3 +10,5 @@ Use the following colors:
 -  #7DB605 (for the logo)
 -  #4EA2E9 (for the logo)
 -  #F3B407 (for the logo)
+
+![Simplified Windows XP background with Windows Logo](https://github.com/ferniemann/p5-excercise/blob/main/Bildschirmfoto%202021-12-01%20um%2014.29.22.png)
